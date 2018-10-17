@@ -3,3 +3,7 @@ const Cinema = function (films) {
 };
 
 module.exports = Cinema;
+
+Cinema.prototype.methodName = function () {
+
+};
